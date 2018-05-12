@@ -1,0 +1,33 @@
+_repo: Prehistoric-Structures-of-Central-AmericaWho-Erected-Them-_29212
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Townsend, Martin I. (Martin Ingham)
+    alias: Townsend, Martin Ingham
+    birthdate: 1810
+    deathdate: 1903
+    gutenberg_agent_id: '33765'
+    url: http://www.gutenberg.org/2009/agents/33765
+description: ''
+gutenberg_issued: '2009-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29212'
+  lccn: '05006455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Central America -- Antiquities'
+- !lcsh 'Indians -- Origin'
+- !lcsh 'Indians of Central America -- Antiquities'
+- !lcc 'E011'
+- !lcsh 'Indians of Mexico -- Antiquities'
+- !lcsh 'America -- Discovery and exploration -- Pre-Columbian'
+- !lcsh 'Mexico -- Antiquities'
+title: 'Prehistoric Structures of Central America: Who Erected Them?'
+url: http://www.gutenberg.org/ebooks/29212
